@@ -1,6 +1,5 @@
 # github-scraper
 
-Project Introduction
 Welcome to the GitHub Topics Scraper project! 
 The project uses web scraping to extract information from the GitHub Topics pages. Beautiful Soup is employed to parse the HTML structure of these pages, while the Requests library facilitates fetching the necessary web content. The scraped data includes repository titles, stars, username and repository URL.
 
